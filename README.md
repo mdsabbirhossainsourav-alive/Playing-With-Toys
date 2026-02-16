@@ -14,6 +14,7 @@ Output the number of toys left with Chef after M days
 1 2
 ### Output
 0
+
 Chef had 1 toy only, and he broke it on day 1. On day 2 he had nothing to play with. He is left with 0 toys after day 2.
 ### Input	
 5 3
